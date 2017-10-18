@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_above="@+id/radio_group"
+        android:id="@+id/frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <RadioButton
+            android:id="@+id/radio_01"
+            android:padding="10dp"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/radio_selector"
+
+            android:checked="true"
+            android:text="首页"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <RadioButton
+            android:id="@+id/radio_02"
+            android:padding="10dp"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/radio_selector"
+            android:text="想法"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <RadioButton
+            android:id="@+id/radio_03"
+            android:padding="10dp"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/radio_selector"
+            android:text="市场"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <RadioButton
+            android:id="@+id/radio_04"
+            android:padding="10dp"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/radio_selector"
+            android:text="通知"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <RadioButton
+            android:id="@+id/radio_05"
+            android:padding="10dp"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/radio_selector"
+            android:text="更多"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+    </RadioGroup>
+</RelativeLayout>

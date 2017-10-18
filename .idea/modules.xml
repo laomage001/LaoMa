@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mashuaijie11/mashuaijie11.iml" filepath="$PROJECT_DIR$/mashuaijie11/mashuaijie11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mashuaijie12/mashuaijie12.iml" filepath="$PROJECT_DIR$/mashuaijie12/mashuaijie12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mashuaijie13/mashuaijie13.iml" filepath="$PROJECT_DIR$/mashuaijie13/mashuaijie13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mashuaijie_09/mashuaijie_09.iml" filepath="$PROJECT_DIR$/mashuaijie_09/mashuaijie_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mrefresh/mrefresh.iml" filepath="$PROJECT_DIR$/mrefresh/mrefresh.iml" />
+    </modules>
+  </component>
+</project>
