@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/mashuaijie13/mashuaijie13.iml" filepath="$PROJECT_DIR$/mashuaijie13/mashuaijie13.iml" />
       <module fileurl="file://$PROJECT_DIR$/mashuaijie_09/mashuaijie_09.iml" filepath="$PROJECT_DIR$/mashuaijie_09/mashuaijie_09.iml" />
       <module fileurl="file://$PROJECT_DIR$/mrefresh/mrefresh.iml" filepath="$PROJECT_DIR$/mrefresh/mrefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshlibrary/pullToRefreshlibrary.iml" filepath="$PROJECT_DIR$/pullToRefreshlibrary/pullToRefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdparty/thirdparty.iml" filepath="$PROJECT_DIR$/thirdparty/thirdparty.iml" />
     </modules>
   </component>
 </project>

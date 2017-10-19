@@ -1,1 +1,2 @@
-include ':app', ':mashuaijie_09', ':mashuaijie11', ':mashuaijie12', ':mashuaijie13', ':mrefresh'
+include ':app', ':mashuaijie_09', ':mashuaijie11', ':mashuaijie12', ':mashuaijie13', ':mrefresh', ':thirdparty'
+include ':pullToRefreshlibrary'
